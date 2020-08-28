@@ -18,6 +18,6 @@ Ademas en la misma pagina un puede colocar el codigo HTML para que sea mas facil
 <li>Asi que cualquier persona puede ir buscando poco a poco lo que desea colocarlo :D </li>
 </ol>
 <h2>Contactame al Facebook de mi hermano</h2>
-  <p>Como /// <a target="_blank" href="https://www.facebook.com/rodri.mnndz">/// Rodrigo Menéndez </a> Dapanji La Luz Del Alba</p>
+  <p>Como <<</// <a target="_blank" href="https://www.facebook.com/rodri.mnndz"> Rodrigo Menéndez </a> ///>>>Dapanji La Luz Del Alba</p>
 </body>
 </html>
